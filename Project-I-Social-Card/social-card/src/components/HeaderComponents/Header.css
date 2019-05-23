@@ -1,1 +1,19 @@
 /* All styles for your header Components live here */
+.headerContainer {
+    border: 2px solid red;
+    display: flex;
+    
+
+}
+.headerThumbnail {
+    border: 2px solid green;
+    width: 10%;
+    height: 55%;
+}
+
+.headerContent {
+    border: 2px solid lightblue;
+}
+.headerTitle {
+
+}
