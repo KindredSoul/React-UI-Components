@@ -5,8 +5,8 @@ import './Header.css';
 
 const HeaderContent = (props) => {
     return (
-        <div>
-            <Title className="headerTitle"
+        <div className="headerContent">
+            <Title
                 title="Lambda School"
                 handle="LambdaSchool"
                 timestamp="22 May"
