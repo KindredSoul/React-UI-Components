@@ -1,1 +1,27 @@
 /* All styles for your header Components live here */
+.headerContainer {
+    border: 2px solid red;
+    display: flex;
+    
+
+}
+.headerThumbnail {
+    border: 2px solid green;
+    width: 20%;
+    /* height: 50px; */
+}
+.headerThumbnail img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 100%;
+}
+
+.headerContent {
+    border: 2px solid lightblue;
+}
+.headerTitle {
+
+}
+.headerTitle h4 {
+    display: inline;
+}
